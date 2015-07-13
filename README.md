@@ -4,5 +4,5 @@
 	(GAE). Restaurateur utilizes python, webapp2 and jinja2.
 ===
 
-	Link to application: [Resaurateur](http://restaurateur-1005.appspot.com)
+>Link to application: [Resaurateur](http://restaurateur-1005.appspot.com)
 ![img](http://i.imgur.com/2BKP4MK.jpg)
